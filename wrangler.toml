@@ -1,0 +1,7 @@
+name = "my-restaurant-api"
+main = "src/index.js"
+compatibility_date = "2024-04-20"
+
+kv_namespaces = [
+  { binding = "Restaurant", id = "440ed5ec33714079a4b64977e7991a82" }
+]
